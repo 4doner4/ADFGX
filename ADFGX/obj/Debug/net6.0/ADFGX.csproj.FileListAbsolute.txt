@@ -1,0 +1,15 @@
+D:\PROJECT\visual studio\ADFGX\ADFGX\bin\Debug\net6.0\ADFGX.exe
+D:\PROJECT\visual studio\ADFGX\ADFGX\bin\Debug\net6.0\ADFGX.deps.json
+D:\PROJECT\visual studio\ADFGX\ADFGX\bin\Debug\net6.0\ADFGX.runtimeconfig.json
+D:\PROJECT\visual studio\ADFGX\ADFGX\bin\Debug\net6.0\ADFGX.dll
+D:\PROJECT\visual studio\ADFGX\ADFGX\bin\Debug\net6.0\ADFGX.pdb
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.csproj.AssemblyReference.cache
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.AssemblyInfoInputs.cache
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.AssemblyInfo.cs
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.csproj.CoreCompileInputs.cache
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.dll
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\refint\ADFGX.dll
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.pdb
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ADFGX.genruntimeconfig.cache
+D:\PROJECT\visual studio\ADFGX\ADFGX\obj\Debug\net6.0\ref\ADFGX.dll
